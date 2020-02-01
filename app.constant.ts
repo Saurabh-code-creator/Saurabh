@@ -1,0 +1,1 @@
+export const authtication_url:string ="http://3.6.10.74/trusted?username=RMUser&target_site=RM"
